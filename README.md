@@ -35,6 +35,7 @@ The developers or publishers of these Open Source Operating Systems have made pl
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
 | :building_construction: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file), [until implementation finished](https://x.com/midnightbsd/status/2030992394703732872) |
+| :building_construction: | **Fedora** | [Planning Discussion](https://x.com/LundukeJournal/status/2036526650154729543) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
